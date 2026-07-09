@@ -27,7 +27,7 @@ Ask: "How does session authentication get applied to a request?" on psf/requests
 
 Setup
 
-bashgit clone https://github.com/YOUR_USERNAME/repomind.git
+bash git clone https://github.com/YOUR_USERNAME/repomind.git
 cd repomind
 python -m venv venv
 venv\Scripts\activate   # or source venv/bin/activate on Mac/Linux
