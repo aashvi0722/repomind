@@ -1,0 +1,5 @@
+GitPython
+chromadb
+scikit-learn
+requests
+streamlit 
